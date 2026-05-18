@@ -1,0 +1,166 @@
+number,name,rarity,color,type,manaCost,normal,foil
+1,Lord of Atlantis,rare,U,Creature — Merfolk,{U}{U},false,false
+2,"Malcolm, Keen-Eyed Navigator",uncommon,U,Legendary Creature — Siren Pirate,{2}{U},false,false
+3,Bridge from Below,rare,B,Enchantment,{B}{B}{B},false,false
+4,Mephidross Vampire,rare,B,Creature — Vampire,{4}{B}{B},false,false
+5,Pitiless Plunderer,uncommon,B,Creature — Human Pirate,{3}{B},false,false
+6,"Breeches, Brazen Plunderer",uncommon,R,Legendary Creature — Goblin Pirate,{3}{R},false,false
+7,"Dargo, the Shipwrecker",uncommon,R,Legendary Creature — Giant Pirate,{6}{R},false,false
+8,Rampaging Ferocidon,rare,R,Creature — Dinosaur,{2}{R},false,false
+9,Underworld Breach,rare,R,Enchantment,{1}{R},false,false
+10,Carnage Tyrant,mythic,G,Creature — Dinosaur,{4}{G}{G},false,false
+11,"Ghalta, Primal Hunger",rare,G,Legendary Creature — Elder Dinosaur,{10}{G}{G},false,false
+12,Polyraptor,mythic,G,Creature — Dinosaur,{6}{G}{G},false,false
+13,"Kalamax, the Stormsire",mythic,GRU,Legendary Creature — Elemental Dinosaur,{1}{G}{U}{R},false,false
+14,Lord Windgrace,mythic,BGR,Legendary Planeswalker — Windgrace,{2}{B}{R}{G},false,false
+15,"Mirri, Weatherlight Duelist",mythic,GW,Legendary Creature — Cat Warrior,{1}{G}{W},false,false
+16,"Thrasios, Triton Hero",rare,GU,Legendary Creature — Merfolk Wizard,{G}{U},false,false
+17,Mana Crypt,mythic,,Artifact,{0},false,false
+17a,Mana Crypt,mythic,,Artifact,{0},false,false
+17b,Mana Crypt,mythic,,Artifact,{0},false,false
+17c,Mana Crypt,mythic,,Artifact,{0},false,false
+17d,Mana Crypt,mythic,,Artifact,{0},false,false
+17e,Mana Crypt,mythic,,Artifact,{0},false,false
+17f,Mana Crypt,mythic,,Artifact,{0},false,false
+18,Star Compass,uncommon,,Artifact,{2},false,false
+19,Ghostly Prison,mythic,W,Enchantment,{2}{W},false,false
+20,Fabricate,mythic,U,Sorcery,{2}{U},false,false
+21,Show and Tell,mythic,U,Sorcery,{2}{U},false,false
+22,Tragic Slip,mythic,B,Instant,{B},false,false
+23,Victimize,mythic,B,Sorcery,{2}{B},false,false
+24,Gamble,mythic,R,Sorcery,{R},false,false
+25,Crashing Footfalls,mythic,G,Sorcery,,false,false
+26,Tireless Tracker,mythic,G,Creature — Human Scout,{2}{G},false,false
+27,Drown in the Loch,mythic,BU,Instant,{U}{B},false,false
+28,Field of the Dead,mythic,,Land,,false,false
+29,Stoneforge Mystic,mythic,W,Creature — Kor Artificer,{1}{W},false,false
+30,Brazen Borrower // Petty Theft,mythic,U,Creature — Faerie Rogue // Instant — Adventure,{1}{U}{U} // {1}{U},false,false
+31,Desertion,mythic,U,Instant,{3}{U}{U},false,false
+32,Morbid Opportunist,mythic,B,Creature — Human Rogue,{2}{B},false,false
+33,Port Razer,mythic,R,Creature — Orc Pirate,{3}{R}{R},false,false
+34,Scapeshift,mythic,G,Sorcery,{2}{G}{G},false,false
+35,Mystic Snake,mythic,GU,Creature — Snake,{1}{G}{U}{U},false,false
+36,Notion Thief,mythic,BU,Creature — Human Rogue,{2}{U}{B},false,false
+37,Desert,mythic,,Land — Desert,,false,false
+38,Prismatic Vista,mythic,,Land,,false,false
+39,Thought-Knot Seer,mythic,,Creature — Eldrazi,{3}{C},false,false
+40,Prismatic Ending,mythic,W,Sorcery,{X}{W},false,false
+41,Dismember,mythic,B,Instant,{1}{B/P}{B/P},false,false
+42,Persist,mythic,B,Sorcery,{1}{B},false,false
+43,Expressive Iteration,mythic,RU,Sorcery,{U}{R},false,false
+44,Solitude,mythic,W,Creature — Elemental Incarnation,{3}{W}{W},false,false
+45,Subtlety,mythic,U,Creature — Elemental Incarnation,{2}{U}{U},false,false
+46,Grief,mythic,B,Creature — Elemental Incarnation,{2}{B}{B},false,false
+47,Fury,mythic,R,Creature — Elemental Incarnation,{3}{R}{R},false,false
+48,Endurance,mythic,G,Creature — Elemental Incarnation,{1}{G}{G},false,false
+49,Solitude,mythic,W,Creature — Elemental Incarnation,{3}{W}{W},false,false
+50,Subtlety,mythic,U,Creature — Elemental Incarnation,{2}{U}{U},false,false
+51,Grief,mythic,B,Creature — Elemental Incarnation,{2}{B}{B},false,false
+52,Fury,mythic,R,Creature — Elemental Incarnation,{3}{R}{R},false,false
+53,Endurance,mythic,G,Creature — Elemental Incarnation,{1}{G}{G},false,false
+54,Swords to Plowshares,mythic,W,Instant,{W},false,false
+55,Ledger Shredder,mythic,U,Creature — Bird Advisor,{1}{U},false,false
+56,Rat Colony,mythic,B,Creature — Rat,{1}{B},false,false
+57,Relentless Rats,mythic,B,Creature — Rat,{1}{B}{B},false,false
+58,Kindred Charge,mythic,R,Sorcery,{4}{R}{R},false,false
+59,Sylvan Tutor,mythic,G,Sorcery,{G},false,false
+60,"Toski, Bearer of Secrets",mythic,G,Legendary Creature — Squirrel,{3}{G},false,false
+61,Frogmite,mythic,,Artifact Creature — Frog,{4},false,false
+62,Sword of Fire and Ice,mythic,,Artifact — Equipment,{3},false,false
+63,Secluded Courtyard,mythic,,Land,,false,false
+64,Hallowed Haunting,mythic,W,Enchantment,{2}{W}{W},false,false
+65,Soul Warden,mythic,W,Creature — Human Cleric,{W},false,false
+66,Expropriate,mythic,U,Sorcery,{7}{U}{U},false,false
+67,Phantasmal Image,mythic,U,Creature — Illusion,{1}{U},false,false
+68,Damnation,mythic,B,Sorcery,{2}{B}{B},false,false
+69,Sacrifice,mythic,B,Instant,{B},false,false
+70,Maddening Hex,mythic,R,Enchantment — Aura Curse,{1}{R}{R},false,false
+71,Unholy Heat,mythic,R,Instant,{R},false,false
+72,Collected Company,mythic,G,Instant,{3}{G},false,false
+73,Noxious Revival,mythic,G,Instant,{G/P},false,false
+74,Condemn,mythic,W,Instant,{W},false,false
+75,Sphinx's Tutelage,mythic,U,Enchantment,{2}{U},false,false
+76,Grim Tutor,mythic,B,Sorcery,{1}{B}{B},false,false
+77,Embercleave,mythic,R,Legendary Artifact — Equipment,{4}{R}{R},false,false
+78,Goblin Bushwhacker,mythic,R,Creature — Goblin Warrior,{R},false,false
+79,Bloom Tender,mythic,G,Creature — Elf Druid,{1}{G},false,false
+80,Paradise Druid,mythic,G,Creature — Elf Druid,{1}{G},false,false
+81,Akroma's Memorial,mythic,,Legendary Artifact,{7},false,false
+82,Temporal Manipulation,mythic,U,Sorcery,{3}{U}{U},false,false
+83,Fiend Artisan,mythic,BG,Creature — Nightmare,{B/G}{B/G},false,false
+84,Cavalier of Dawn,mythic,W,Creature — Elemental Knight,{2}{W}{W}{W},false,false
+85,Thoughtcast,mythic,U,Sorcery,{4}{U},false,false
+86,Whir of Invention,mythic,U,Instant,{X}{U}{U}{U},false,false
+87,Bone Miser,mythic,B,Creature — Zombie Wizard,{4}{B},false,false
+88,Lord of the Undead,mythic,B,Creature — Zombie,{1}{B}{B},false,false
+89,Chandra's Ignition,mythic,R,Sorcery,{3}{R}{R},false,false
+90,Galvanic Blast,mythic,R,Instant,{R},false,false
+91,Pathbreaker Ibex,mythic,G,Creature — Goat,{4}{G}{G},false,false
+92,Chrome Mox,mythic,,Artifact,{0},false,false
+93,"Skysovereign, Consul Flagship",mythic,,Legendary Artifact — Vehicle,{5},false,false
+94,Cavalier of Dawn,mythic,W,Creature — Elemental Knight,{2}{W}{W}{W},false,false
+95,Thoughtcast,mythic,U,Sorcery,{4}{U},false,false
+96,Whir of Invention,mythic,U,Instant,{X}{U}{U}{U},false,false
+97,Bone Miser,mythic,B,Creature — Zombie Wizard,{4}{B},false,false
+98,Lord of the Undead,mythic,B,Creature — Zombie,{1}{B}{B},false,false
+99,Chandra's Ignition,mythic,R,Sorcery,{3}{R}{R},false,false
+100,Galvanic Blast,mythic,R,Instant,{R},false,false
+101,Pathbreaker Ibex,mythic,G,Creature — Goat,{4}{G}{G},false,false
+102,Chrome Mox,mythic,,Artifact,{0},false,false
+103,"Skysovereign, Consul Flagship",mythic,,Legendary Artifact — Vehicle,{5},false,false
+104,Eerie Ultimatum,mythic,BGW,Sorcery,{W}{W}{B}{B}{B}{G}{G},false,false
+105,Emergent Ultimatum,mythic,BGU,Sorcery,{B}{B}{G}{G}{G}{U}{U},false,false
+106,Genesis Ultimatum,mythic,GRU,Sorcery,{G}{G}{U}{U}{U}{R}{R},false,false
+107,Inspired Ultimatum,mythic,RUW,Sorcery,{U}{U}{R}{R}{R}{W}{W},false,false
+108,Ruinous Ultimatum,mythic,BRW,Sorcery,{R}{R}{W}{W}{W}{B}{B},false,false
+109,Arid Mesa,mythic,,Land,,false,false
+110,Marsh Flats,mythic,,Land,,false,false
+111,Misty Rainforest,mythic,,Land,,false,false
+112,Scalding Tarn,mythic,,Land,,false,false
+113,Verdant Catacombs,mythic,,Land,,false,false
+114,Arid Mesa,mythic,,Land,,false,false
+115,Marsh Flats,mythic,,Land,,false,false
+116,Misty Rainforest,mythic,,Land,,false,false
+117,Scalding Tarn,mythic,,Land,,false,false
+118,Verdant Catacombs,mythic,,Land,,false,false
+119,Warping Wail,mythic,,Instant,{1}{C},false,false
+120,Deafening Silence,mythic,W,Enchantment,{W},false,false
+121,Robe of Stars,mythic,W,Artifact — Equipment,{1}{W},false,false
+122,Nexus of Fate,mythic,U,Instant,{5}{U}{U},false,false
+123,Paradox Haze,mythic,U,Enchantment — Aura,{2}{U},false,false
+124,Darkness,mythic,B,Instant,{B},false,false
+125,Magus of the Moon,mythic,R,Creature — Human Wizard,{2}{R},false,false
+126,Burgeoning,mythic,G,Enchantment,{G},false,false
+127,Green Sun's Zenith,mythic,G,Sorcery,{X}{G},false,false
+128,Sliver Overlord,mythic,BGRUW,Legendary Creature — Sliver Mutant,{W}{U}{B}{R}{G},false,false
+129,Idyllic Tutor,mythic,W,Sorcery,{2}{W},false,false
+130,Kinsbaile Cavalier,mythic,W,Creature — Kithkin Knight,{3}{W},false,false
+131,Mistbind Clique,mythic,U,Creature — Faerie Wizard,{3}{U},false,false
+132,Wanderwine Prophets,mythic,U,Creature — Merfolk Wizard,{4}{U}{U},false,false
+133,Bitterblossom,mythic,B,Kindred Enchantment — Faerie,{1}{B},false,false
+134,Faerie Macabre,mythic,B,Creature — Faerie Rogue,{1}{B}{B},false,false
+135,Goblin Chieftain,mythic,R,Creature — Goblin,{1}{R}{R},false,false
+136,Goblin Sharpshooter,mythic,R,Creature — Goblin,{2}{R},false,false
+137,Heat Shimmer,mythic,R,Sorcery,{2}{R},false,false
+138,Devoted Druid,mythic,G,Creature — Elf Druid,{1}{G},false,false
+139,Helix Pinnacle,mythic,G,Enchantment,{G},false,false
+140,Leaf-Crowned Visionary,mythic,G,Creature — Elf Druid,{G}{G},false,false
+141,Regal Force,mythic,G,Creature — Elemental,{4}{G}{G}{G},false,false
+142,Manamorphose,mythic,GR,Instant,{1}{R/G},false,false
+143,Risen Reef,mythic,GU,Creature — Elemental,{1}{G}{U},false,false
+144,Slippery Bogle,mythic,GU,Creature — Beast,{G/U},false,false
+145,Dolmen Gate,mythic,,Artifact,{2},false,false
+146,Door of Destinies,mythic,,Artifact,{4},false,false
+147,Painter's Servant,mythic,,Artifact Creature — Scarecrow,{2},false,false
+148,Thousand-Year Elixir,mythic,,Artifact,{3},false,false
+149,Archaeomancer,mythic,U,Creature — Human Wizard,{2}{U}{U},false,false
+150,Archmage Emeritus,mythic,U,Creature — Human Wizard,{2}{U}{U},false,false
+151,Murmuring Mystic,mythic,U,Creature — Human Wizard,{3}{U},false,false
+152,Grim Haruspex,mythic,B,Creature — Human Wizard,{2}{B},false,false
+153,Dualcaster Mage,mythic,R,Creature — Human Wizard,{1}{R}{R},false,false
+154,Magus of the Library,mythic,G,Creature — Human Wizard,{G}{G},false,false
+155,Sylvan Library,mythic,G,Enchantment,{1}{G},false,false
+156,"Adrix and Nev, Twincasters",mythic,GU,Legendary Creature — Merfolk Wizard,{2}{G}{U},false,false
+157,"Codie, Vociferous Codex",mythic,BGRUW,Legendary Artifact Creature — Book Construct,{3},true,false
+158a,Library of Alexandria,mythic,,Land,,false,false
+158,Library of Leng,mythic,,Artifact,{1},false,false

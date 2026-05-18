@@ -1,0 +1,19 @@
+{
+  "secrets_of_strixhaven_mystical_archive": {
+    "notes": "65 distinct cards. Cards 66-130 are Japanese non-foil printings. Cards 131-195 are Japanese silver foil printings.",
+    "distinctCards": 65,
+    "variants": [
+      { "range": [1, 65], "label": "English" },
+      { "range": [66, 130], "label": "Japanese Non-Foil", "normalOnly": true },
+      { "range": [131, 195], "label": "Japanese Silver Foil", "foilOnly": true }
+    ]
+  },
+  "special_guests": {
+    "notes": "Special Guests are inserted into packs of other sets rather than having their own boosters.",
+    "hostSets": {}
+  },
+  "bloomburrow": {
+    "notes": "Pack-in basic lands are full art (269-281). Normal basic lands (369-378) appear within the special editions block.",
+    "specialStartNumber": 282
+  }
+}

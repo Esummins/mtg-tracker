@@ -1,0 +1,11 @@
+number,name,rarity,color,type,manaCost,normal,foil
+1,Angelic Edict,common,W,Sorcery,4W,true,false
+2,Inspired Charge,common,W,Instant,2WW,false,true
+3,Lightmare,common,W,Creature - Elemental,1W,true,false
+4,Cancel,common,U,Instant,1UU,false,false
+5,Into the Roil,common,U,Instant,1U,false,false
+6,Mind Rot,common,B,Sorcery,2B,false,false
+7,Murder,common,B,Instant,1BB,false,false
+8,Goblin Striker,common,R,Creature - Goblin Berserker,1R,false,false
+9,Llanowar Elves,common,G,Creature - Elf Druid,G,false,false
+10,Naturalize,common,G,Instant,1G,false,false

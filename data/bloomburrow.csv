@@ -1,0 +1,399 @@
+number,name,rarity,color,type,manaCost,normal,foil
+1,Banishing Light,common,W,Enchantment,{2}{W},true,false
+2,"Beza, the Bounding Spring",mythic,W,Legendary Creature — Elemental Elk,{2}{W}{W},true,false
+3,Brave-Kin Duo,common,W,Creature — Rabbit Mouse,{W},true,false
+4,Brightblade Stoat,uncommon,W,Creature — Weasel Soldier,{1}{W},true,false
+5,Builder's Talent,uncommon,W,Enchantment — Class,{1}{W},true,false
+6,Caretaker's Talent,rare,W,Enchantment — Class,{2}{W},true,false
+7,Carrot Cake,common,W,Artifact — Food,{1}{W},true,false
+8,Crumb and Get It,common,W,Instant,{W},true,false
+9,Dawn's Truce,rare,W,Instant,{1}{W},false,false
+10,Dewdrop Cure,uncommon,W,Sorcery,{2}{W},true,true
+11,Driftgloom Coyote,uncommon,W,Creature — Elemental Coyote,{3}{W}{W},true,false
+12,Essence Channeler,rare,W,Creature — Bat Cleric,{1}{W},true,false
+13,Feather of Flight,uncommon,W,Enchantment — Aura,{1}{W},true,false
+14,Flowerfoot Swordmaster,uncommon,W,Creature — Mouse Soldier,{W},true,true
+15,Harvestrite Host,uncommon,W,Creature — Rabbit Citizen,{2}{W},true,false
+16,Hop to It,uncommon,W,Sorcery,{2}{W},false,true
+17,Intrepid Rabbit,common,W,Creature — Rabbit Soldier,{2}{W},true,false
+18,Jackdaw Savior,rare,W,Creature — Bird Cleric,{2}{W},true,false
+19,Jolly Gerbils,uncommon,W,Creature — Hamster Citizen,{1}{W},true,false
+20,Lifecreed Duo,common,W,Creature — Bat Bird,{1}{W},true,false
+21,Mabel's Mettle,uncommon,W,Instant,{1}{W},true,false
+22,Mouse Trapper,uncommon,W,Creature — Mouse Soldier,{2}{W},true,false
+23,Nettle Guard,common,W,Creature — Mouse Soldier,{1}{W},false,true
+24,Parting Gust,uncommon,W,Instant,{W}{W},false,true
+25,Pileated Provisioner,common,W,Creature — Bird Scout,{4}{W},true,false
+26,Rabbit Response,common,W,Instant,{2}{W}{W},true,false
+27,Repel Calamity,uncommon,W,Instant,{1}{W},true,false
+28,Salvation Swan,rare,W,Creature — Bird Cleric,{3}{W},true,false
+29,Season of the Burrow,mythic,W,Sorcery,{3}{W}{W},false,false
+30,Seasoned Warrenguard,uncommon,W,Creature — Rabbit Warrior,{W},true,false
+31,Shrike Force,uncommon,W,Creature — Bird Knight,{2}{W},true,true
+32,Sonar Strike,common,W,Instant,{1}{W},true,false
+33,Star Charter,uncommon,W,Creature — Bat Cleric,{3}{W},true,false
+34,Starfall Invocation,rare,W,Sorcery,{3}{W}{W},false,false
+35,Thistledown Players,common,W,Creature — Mouse Bard,{2}{W},true,true
+36,Valley Questcaller,rare,W,Creature — Rabbit Warrior,{1}{W},true,false
+37,Warren Elder,common,W,Creature — Rabbit Cleric,{1}{W},false,true
+38,Warren Warleader,mythic,W,Creature — Rabbit Knight,{2}{W}{W},false,true
+39,Wax-Wane Witness,common,W,Creature — Bat Cleric,{3}{W},true,true
+40,Whiskervale Forerunner,rare,W,Creature — Mouse Bard,{3}{W},true,false
+41,Azure Beastbinder,rare,U,Creature — Rat Rogue,{1}{U},true,false
+42,Bellowing Crier,common,U,Creature — Frog Advisor,{1}{U},true,true
+43,Calamitous Tide,uncommon,U,Sorcery,{4}{U}{U},true,true
+44,Daring Waverider,uncommon,U,Creature — Otter Wizard,{4}{U}{U},true,false
+45,Dazzling Denial,common,U,Instant,{1}{U},true,true
+46,Dire Downdraft,common,U,Instant,{3}{U},true,true
+47,Dour Port-Mage,rare,U,Creature — Frog Wizard,{1}{U},true,false
+48,Eddymurk Crab,uncommon,U,Creature — Elemental Crab,{5}{U}{U},true,false
+49,"Eluge, the Shoreless Sea",mythic,U,Legendary Creature — Elemental Fish,{1}{U}{U}{U},false,false
+50,Finch Formation,common,U,Creature — Bird Scout,{2}{U},true,false
+51,Gossip's Talent,uncommon,U,Enchantment — Class,{1}{U},true,false
+52,Into the Flood Maw,uncommon,U,Instant,{U},true,false
+53,Kitnap,rare,U,Enchantment — Aura,{2}{U}{U},false,false
+54,"Kitsa, Otterball Elite",mythic,U,Legendary Creature — Otter Wizard,{1}{U},true,false
+55,Knightfisher,uncommon,U,Creature — Bird Knight,{3}{U}{U},true,false
+56,Lightshell Duo,common,U,Creature — Rat Otter,{3}{U},true,false
+57,Long River Lurker,uncommon,U,Creature — Frog Scout,{2}{U},true,false
+58,Long River's Pull,uncommon,U,Instant,{U}{U},true,false
+59,Mind Spiral,common,U,Sorcery,{4}{U},true,false
+60,Mindwhisker,uncommon,U,Creature — Rat Wizard,{2}{U},true,false
+61,Mockingbird,rare,U,Creature — Bird Bard,{X}{U},false,false
+62,Nightwhorl Hermit,common,U,Creature — Rat Rogue,{2}{U},true,true
+63,Otterball Antics,uncommon,U,Sorcery,{1}{U},true,false
+64,Pearl of Wisdom,common,U,Sorcery,{2}{U},true,false
+65,Plumecreed Escort,uncommon,U,Creature — Bird Scout,{1}{U},true,false
+66,Portent of Calamity,rare,U,Sorcery,{X}{U},true,false
+67,Run Away Together,common,U,Instant,{1}{U},true,true
+68,Season of Weaving,mythic,U,Sorcery,{4}{U}{U},true,false
+69,Shore Up,common,U,Instant,{U},true,false
+70,Shoreline Looter,uncommon,U,Creature — Rat Rogue,{1}{U},true,false
+71,Skyskipper Duo,common,U,Creature — Bird Frog,{4}{U},true,true
+72,Spellgyre,uncommon,U,Instant,{2}{U}{U},true,false
+73,Splash Lasher,uncommon,U,Creature — Frog Wizard,{3}{U},true,false
+74,Splash Portal,uncommon,U,Sorcery,{U},true,false
+75,Stormchaser's Talent,rare,U,Enchantment — Class,{U},false,false
+76,Sugar Coat,uncommon,U,Enchantment — Aura,{2}{U},true,false
+77,Thought Shucker,common,U,Creature — Rat Rogue,{1}{U},true,false
+78,Thundertrap Trainer,rare,U,Creature — Otter Wizard,{1}{U},true,false
+79,Valley Floodcaller,rare,U,Creature — Otter Wizard,{2}{U},true,false
+80,Waterspout Warden,common,U,Creature — Frog Soldier,{2}{U},true,true
+81,Wishing Well,rare,U,Artifact,{3}{U},false,false
+82,Agate-Blade Assassin,common,B,Creature — Lizard Assassin,{1}{B},true,false
+83,Bandit's Talent,uncommon,B,Enchantment — Class,{1}{B},true,true
+84,Bonebind Orator,common,B,Creature — Squirrel Warlock Bard,{1}{B},true,false
+85,Bonecache Overseer,uncommon,B,Creature — Squirrel Warlock,{B},true,false
+86,Coiling Rebirth,rare,B,Sorcery,{3}{B}{B},true,false
+87,Consumed by Greed,uncommon,B,Instant,{1}{B}{B},true,true
+88,Cruelclaw's Heist,rare,B,Sorcery,{B}{B},true,true
+89,Daggerfang Duo,common,B,Creature — Rat Squirrel,{2}{B},true,false
+90,Darkstar Augur,rare,B,Creature — Bat Warlock,{2}{B},true,true
+91,Diresight,common,B,Sorcery,{2}{B},true,true
+92,Downwind Ambusher,uncommon,B,Creature — Skunk Assassin,{3}{B},true,false
+93,Early Winter,common,B,Instant,{4}{B},true,false
+94,Feed the Cycle,uncommon,B,Instant,{1}{B},true,false
+95,Fell,uncommon,B,Sorcery,{1}{B},true,false
+96,Glidedive Duo,common,B,Creature — Bat Lizard,{4}{B},true,false
+97,Hazel's Nocturne,uncommon,B,Instant,{3}{B},true,false
+98,Huskburster Swarm,uncommon,B,Creature — Elemental Insect,{7}{B},true,true
+99,Iridescent Vinelasher,rare,B,Creature — Lizard Assassin,{B},true,false
+100,"Maha, Its Feathers Night",mythic,B,Legendary Creature — Elemental Bird,{3}{B}{B},true,false
+101,Moonstone Harbinger,uncommon,B,Creature — Bat Warrior,{2}{B},true,true
+102,Nocturnal Hunger,common,B,Instant,{2}{B},true,true
+103,Osteomancer Adept,rare,B,Creature — Squirrel Warlock,{1}{B},true,false
+104,Persistent Marshstalker,uncommon,B,Creature — Rat Berserker,{1}{B},true,false
+105,Psychic Whorl,common,B,Sorcery,{2}{B},true,false
+106,Ravine Raider,common,B,Creature — Lizard Rogue,{B},true,true
+107,Rottenmouth Viper,mythic,B,Creature — Elemental Snake,{5}{B},true,false
+108,Ruthless Negotiation,uncommon,B,Sorcery,{B},true,false
+109,Savor,common,B,Instant,{1}{B},true,false
+110,Scales of Shale,common,B,Instant,{2}{B},true,true
+111,Scavenger's Talent,rare,B,Enchantment — Class,{B},false,false
+112,Season of Loss,mythic,B,Sorcery,{3}{B}{B},true,false
+113,Sinister Monolith,uncommon,B,Artifact,{3}{B},true,true
+114,Stargaze,uncommon,B,Sorcery,{X}{B}{B},true,false
+115,Starlit Soothsayer,common,B,Creature — Bat Cleric,{2}{B},true,false
+116,Starscape Cleric,uncommon,B,Creature — Bat Cleric,{1}{B},true,true
+117,Thornplate Intimidator,common,B,Creature — Rat Rogue,{3}{B},true,true
+118,Thought-Stalker Warlock,uncommon,B,Creature — Lizard Warlock,{2}{B},true,false
+119,Valley Rotcaller,rare,B,Creature — Squirrel Warlock,{1}{B},true,true
+120,"Wick, the Whorled Mind",rare,BRU,Legendary Creature — Rat Warlock,{3}{B},false,false
+121,Wick's Patrol,uncommon,B,Creature — Rat Warlock,{4}{B}{B},true,false
+122,Agate Assault,common,R,Sorcery,{2}{R},true,false
+123,Alania's Pathmaker,common,R,Creature — Otter Wizard,{3}{R},true,false
+124,Artist's Talent,rare,R,Enchantment — Class,{1}{R},false,false
+125,Blacksmith's Talent,uncommon,R,Enchantment — Class,{R},true,true
+126,Blooming Blast,uncommon,R,Instant,{1}{R},true,true
+127,Brambleguard Captain,uncommon,R,Creature — Mouse Soldier,{3}{R},true,false
+128,Brazen Collector,uncommon,R,Creature — Raccoon Rogue,{1}{R},true,false
+129,Byway Barterer,rare,R,Creature — Raccoon Rogue,{2}{R},true,false
+130,Conduct Electricity,common,R,Instant,{4}{R},true,false
+131,Coruscation Mage,uncommon,R,Creature — Otter Wizard,{1}{R},true,false
+132,"Dragonhawk, Fate's Tempest",mythic,R,Legendary Creature — Bird Dragon,{3}{R}{R},false,false
+133,Emberheart Challenger,rare,R,Creature — Mouse Warrior,{1}{R},true,true
+134,Festival of Embers,rare,R,Enchantment,{4}{R},false,false
+135,Flamecache Gecko,uncommon,BR,Creature — Lizard Warlock,{1}{R},true,true
+136,Frilled Sparkshooter,common,R,Creature — Lizard Archer,{3}{R},true,true
+137,Harnesser of Storms,uncommon,R,Creature — Otter Wizard,{2}{R},true,false
+138,Heartfire Hero,uncommon,R,Creature — Mouse Soldier,{R},true,true
+139,Hearthborn Battler,rare,R,Creature — Lizard Warlock,{2}{R},true,false
+140,Hired Claw,rare,R,Creature — Lizard Mercenary,{R},true,false
+141,Hoarder's Overflow,uncommon,R,Enchantment,{1}{R},true,false
+142,Kindlespark Duo,common,R,Creature — Lizard Otter,{2}{R},true,false
+143,Manifold Mouse,rare,R,Creature — Mouse Soldier,{1}{R},true,false
+144,Might of the Meek,common,R,Instant,{R},true,false
+145,Playful Shove,uncommon,R,Sorcery,{1}{R},true,false
+146,Quaketusk Boar,uncommon,R,Creature — Elemental Boar,{3}{R}{R},true,false
+147,Rabid Gnaw,uncommon,R,Instant,{1}{R},true,false
+148,Raccoon Rallier,common,R,Creature — Raccoon Bard,{1}{R},true,true
+149,Reptilian Recruiter,uncommon,R,Creature — Lizard Warrior,{3}{R}{R},true,false
+150,Roughshod Duo,common,R,Creature — Mouse Raccoon,{2}{R},true,true
+151,Sazacap's Brew,common,R,Instant,{1}{R},true,false
+152,Season of the Bold,mythic,R,Sorcery,{3}{R}{R},false,false
+153,Steampath Charger,common,R,Creature — Lizard Warlock,{1}{R},true,false
+154,Stormsplitter,mythic,R,Creature — Otter Wizard,{3}{R},false,false
+155,Sunspine Lynx,rare,R,Creature — Elemental Cat,{2}{R}{R},true,false
+156,Take Out the Trash,common,R,Instant,{1}{R},true,true
+157,Teapot Slinger,uncommon,R,Creature — Raccoon Warrior,{3}{R},true,true
+158,Valley Flamecaller,rare,R,Creature — Lizard Warlock,{2}{R},true,false
+159,Valley Rally,uncommon,R,Instant,{2}{R},true,true
+160,War Squeak,common,R,Enchantment — Aura,{R},true,false
+161,Whiskerquill Scribe,common,R,Creature — Mouse Citizen,{1}{R},true,false
+162,Wildfire Howl,uncommon,R,Sorcery,{1}{R}{R},true,false
+163,Bakersbane Duo,common,G,Creature — Squirrel Raccoon,{1}{G},true,true
+164,Bark-Knuckle Boxer,uncommon,G,Creature — Raccoon Berserker,{1}{G},true,false
+165,Brambleguard Veteran,uncommon,G,Creature — Raccoon Warrior,{1}{G}{G},true,false
+166,Bushy Bodyguard,uncommon,G,Creature — Squirrel Warrior,{1}{G},true,false
+167,Cache Grab,common,G,Instant,{1}{G},true,true
+168,Clifftop Lookout,uncommon,G,Creature — Frog Scout,{2}{G},true,false
+169,Curious Forager,uncommon,G,Creature — Squirrel Druid,{2}{G},true,true
+170,Druid of the Spade,common,G,Creature — Rabbit Druid,{2}{G},true,true
+171,Fecund Greenshell,rare,G,Creature — Elemental Turtle,{3}{G}{G},true,false
+172,For the Common Good,rare,G,Sorcery,{X}{X}{G},true,false
+173,Galewind Moose,uncommon,G,Creature — Elemental Elk,{4}{G}{G},true,false
+174,Hazardroot Herbalist,uncommon,G,Creature — Rabbit Druid,{2}{G},true,true
+175,Heaped Harvest,common,G,Artifact — Food,{2}{G},true,true
+176,High Stride,common,G,Instant,{G},true,false
+177,Hivespine Wolverine,uncommon,G,Creature — Elemental Wolverine,{3}{G}{G},true,false
+178,Honored Dreyleader,uncommon,G,Creature — Squirrel Warrior,{2}{G},true,true
+179,Hunter's Talent,uncommon,G,Enchantment — Class,{1}{G},true,true
+180,Innkeeper's Talent,rare,G,Enchantment — Class,{1}{G},false,false
+181,Keen-Eyed Curator,rare,G,Creature — Raccoon Scout,{G}{G},true,false
+182,Longstalk Brawl,common,G,Sorcery,{G},true,false
+183,"Lumra, Bellow of the Woods",mythic,G,Legendary Creature — Elemental Bear,{4}{G}{G},false,false
+184,Mistbreath Elder,rare,G,Creature — Frog Warrior,{G},false,false
+185,Overprotect,uncommon,G,Instant,{1}{G},true,false
+186,Pawpatch Formation,uncommon,G,Instant,{1}{G},true,false
+187,Pawpatch Recruit,rare,G,Creature — Rabbit Warrior,{G},false,false
+188,Peerless Recycling,uncommon,G,Instant,{1}{G},true,false
+189,Polliwallop,common,G,Instant,{3}{G},true,false
+190,Rust-Shield Rampager,common,G,Creature — Raccoon Warrior,{3}{G},true,true
+191,Scrapshooter,rare,G,Creature — Raccoon Archer,{1}{G}{G},true,false
+192,Season of Gathering,mythic,G,Sorcery,{4}{G}{G},true,false
+193,Stickytongue Sentinel,common,G,Creature — Frog Warrior,{2}{G},true,false
+194,Stocking the Pantry,uncommon,G,Enchantment,{G},true,false
+195,Sunshower Druid,common,G,Creature — Frog Druid,{G},true,false
+196,Tender Wildguide,rare,G,Creature — Possum Druid,{1}{G},false,false
+197,Thornvault Forager,rare,G,Creature — Squirrel Ranger,{1}{G},true,false
+198,Three Tree Rootweaver,common,G,Creature — Mole Druid,{1}{G},true,false
+199,Three Tree Scribe,uncommon,G,Creature — Frog Druid,{1}{G},true,true
+200,Treeguard Duo,common,G,Creature — Frog Rabbit,{3}{G},true,true
+201,Treetop Sentries,common,G,Creature — Squirrel Archer,{3}{G},true,true
+202,Valley Mightcaller,rare,G,Creature — Frog Warrior,{G},true,false
+203,Wear Down,uncommon,G,Sorcery,{1}{G},true,false
+204,"Alania, Divergent Storm",rare,RU,Legendary Creature — Otter Wizard,{3}{U}{R},true,false
+205,"Baylen, the Haymaker",rare,GRW,Legendary Creature — Rabbit Warrior,{R}{G}{W},true,true
+206,Burrowguard Mentor,uncommon,GW,Creature — Rabbit Soldier,{G}{W},true,false
+207,"Camellia, the Seedmiser",rare,BG,Legendary Creature — Squirrel Warlock,{1}{B}{G},true,false
+208,Cindering Cutthroat,common,BR,Creature — Lizard Assassin,{2}{B/R},true,true
+209,"Clement, the Worrywort",rare,GU,Legendary Creature — Frog Druid,{1}{G}{U},true,false
+210,Corpseberry Cultivator,common,BG,Creature — Squirrel Warlock,{1}{B/G}{B/G},true,false
+211,Dreamdew Entrancer,rare,GU,Creature — Frog Wizard,{2}{G}{U},true,false
+212,"Finneas, Ace Archer",rare,GW,Legendary Creature — Rabbit Archer,{G}{W},true,false
+213,Fireglass Mentor,uncommon,BR,Creature — Lizard Warlock,{B}{R},true,false
+214,"Gev, Scaled Scorch",rare,BR,Legendary Creature — Lizard Mercenary,{B}{R},true,false
+215,"Glarb, Calamity's Augur",mythic,BGU,Legendary Creature — Frog Wizard Noble,{B}{G}{U},false,false
+216,Head of the Homestead,common,GW,Creature — Rabbit Citizen,{3}{G/W}{G/W},true,false
+217,"Helga, Skittish Seer",mythic,GUW,Legendary Creature — Frog Druid,{G}{W}{U},true,false
+218,"Hugs, Grisly Guardian",mythic,GR,Legendary Creature — Badger Warrior,{X}{R}{R}{G}{G},true,false
+219,The Infamous Cruelclaw,mythic,BR,Legendary Creature — Weasel Mercenary,{1}{B}{R},false,false
+220,Junkblade Bruiser,common,GR,Creature — Raccoon Berserker,{3}{R/G}{R/G},true,true
+221,"Kastral, the Windcrested",rare,UW,Legendary Creature — Bird Scout,{3}{W}{U},true,false
+222,Lilysplash Mentor,uncommon,GU,Creature — Frog Druid,{2}{G}{U},true,false
+223,Lunar Convocation,rare,BW,Enchantment,{W}{B},true,false
+224,"Mabel, Heir to Cragflame",rare,RW,Legendary Creature — Mouse Soldier,{1}{R}{W},false,true
+225,Mind Drill Assailant,common,BU,Creature — Rat Warlock,{2}{U/B}{U/B},true,true
+226,Moonrise Cleric,common,BW,Creature — Bat Cleric,{1}{W/B}{W/B},true,false
+227,"Muerra, Trash Tactician",rare,GR,Legendary Creature — Raccoon Warrior,{1}{R}{G},true,false
+228,Plumecreed Mentor,uncommon,UW,Creature — Bird Scout,{1}{W}{U},true,true
+229,Pond Prophet,common,GU,Creature — Frog Advisor,{G/U}{G/U},true,false
+230,"Ral, Crackling Wit",mythic,RU,Legendary Planeswalker — Ral,{2}{U}{R},false,false
+231,Seedglaive Mentor,uncommon,RW,Creature — Mouse Soldier,{1}{R}{W},true,false
+232,Seedpod Squire,common,UW,Creature — Bird Scout,{3}{W/U},true,true
+233,Starseer Mentor,uncommon,BW,Creature — Bat Warlock,{3}{W}{B},true,true
+234,Stormcatch Mentor,uncommon,RU,Creature — Otter Wizard,{U}{R},true,false
+235,Tempest Angler,common,RU,Creature — Otter Wizard,{1}{U/R}{U/R},true,true
+236,Tidecaller Mentor,uncommon,BU,Creature — Rat Wizard,{1}{U}{B},false,true
+237,Veteran Guardmouse,common,RW,Creature — Mouse Soldier,{3}{R/W},true,true
+238,Vinereap Mentor,uncommon,BG,Creature — Squirrel Druid,{B}{G},true,false
+239,"Vren, the Relentless",rare,BU,Legendary Creature — Rat Rogue,{2}{U}{B},false,false
+240,Wandertale Mentor,uncommon,GR,Creature — Raccoon Bard,{R}{G},true,false
+241,"Ygra, Eater of All",mythic,BG,Legendary Creature — Elemental Cat,{3}{B}{G},false,false
+242,"Zoraline, Cosmos Caller",rare,BW,Legendary Creature — Bat Cleric,{1}{W}{B},true,true
+243,Barkform Harvester,common,,Artifact Creature — Shapeshifter,{3},true,true
+244,Bumbleflower's Sharepot,common,,Artifact,{2},true,true
+245,Fountainport Bell,common,,Artifact,{1},true,false
+246,Heirloom Epic,uncommon,,Artifact — Book,{1},true,true
+247,Patchwork Banner,uncommon,,Artifact,{3},true,false
+248,Short Bow,uncommon,,Artifact — Equipment,{2},true,false
+249,Starforged Sword,uncommon,,Artifact — Equipment,{4},true,true
+250,Tangle Tumbler,uncommon,,Artifact — Vehicle,{3},true,false
+251,Three Tree Mascot,common,,Artifact Creature — Shapeshifter,{2},true,false
+252,Fabled Passage,rare,,Land,,false,false
+253,Fountainport,rare,,Land,,true,false
+254,Hidden Grotto,common,,Land,,true,false
+255,Lilypad Village,uncommon,U,Land,,true,false
+256,Lupinflower Village,uncommon,W,Land,,true,false
+257,Mudflat Village,uncommon,B,Land,,true,true
+258,Oakhollow Village,uncommon,G,Land,,true,false
+259,Rockface Village,uncommon,R,Land,,true,false
+260,Three Tree City,rare,,Legendary Land,,false,false
+261,Uncharted Haven,common,,Land,,true,false
+262,Plains,common,W,Basic Land — Plains,,true,true
+263,Plains,common,W,Basic Land — Plains,,true,true
+264,Plains,common,W,Basic Land — Plains,,true,true
+265,Plains,common,W,Basic Land — Plains,,true,true
+266,Island,common,U,Basic Land — Island,,true,true
+267,Island,common,U,Basic Land — Island,,true,true
+268,Island,common,U,Basic Land — Island,,true,true
+269,Island,common,U,Basic Land — Island,,true,true
+270,Swamp,common,B,Basic Land — Swamp,,true,true
+271,Swamp,common,B,Basic Land — Swamp,,true,true
+272,Swamp,common,B,Basic Land — Swamp,,true,true
+273,Swamp,common,B,Basic Land — Swamp,,true,true
+274,Mountain,common,R,Basic Land — Mountain,,true,true
+275,Mountain,common,R,Basic Land — Mountain,,true,true
+276,Mountain,common,R,Basic Land — Mountain,,true,true
+277,Mountain,common,R,Basic Land — Mountain,,true,true
+278,Forest,common,G,Basic Land — Forest,,true,true
+279,Forest,common,G,Basic Land — Forest,,true,true
+280,Forest,common,G,Basic Land — Forest,,true,true
+281,Forest,common,G,Basic Land — Forest,,true,true
+282,Season of the Burrow,mythic,W,Sorcery,{3}{W}{W},false,false
+283,Season of Weaving,mythic,U,Sorcery,{4}{U}{U},false,false
+284,Season of Loss,mythic,B,Sorcery,{3}{B}{B},false,false
+285,Season of the Bold,mythic,R,Sorcery,{3}{R}{R},false,false
+286,Season of Gathering,mythic,G,Sorcery,{4}{G}{G},false,false
+287,"Beza, the Bounding Spring",mythic,W,Legendary Creature — Elemental Elk,{2}{W}{W},false,false
+288,"Eluge, the Shoreless Sea",mythic,U,Legendary Creature — Elemental Fish,{1}{U}{U}{U},false,false
+289,"Maha, Its Feathers Night",mythic,B,Legendary Creature — Elemental Bird,{3}{B}{B},false,false
+290,Rottenmouth Viper,mythic,B,Creature — Elemental Snake,{5}{B},false,false
+291,"Dragonhawk, Fate's Tempest",mythic,R,Legendary Creature — Bird Dragon,{3}{R}{R},false,false
+292,Sunspine Lynx,rare,R,Creature — Elemental Cat,{2}{R}{R},false,false
+293,"Lumra, Bellow of the Woods",mythic,G,Legendary Creature — Elemental Bear,{4}{G}{G},false,false
+294,"Ygra, Eater of All",mythic,BG,Legendary Creature — Elemental Cat,{3}{B}{G},false,false
+295,Dawn's Truce,rare,W,Instant,{1}{W},false,false
+296,Jackdaw Savior,rare,W,Creature — Bird Cleric,{2}{W},false,false
+297,Salvation Swan,rare,W,Creature — Bird Cleric,{3}{W},false,false
+298,Starfall Invocation,rare,W,Sorcery,{3}{W}{W},false,false
+299,Valley Questcaller,rare,W,Creature — Rabbit Warrior,{1}{W},false,false
+300,Warren Warleader,mythic,W,Creature — Rabbit Knight,{2}{W}{W},true,false
+301,Whiskervale Forerunner,rare,W,Creature — Mouse Bard,{3}{W},false,false
+302,Azure Beastbinder,rare,U,Creature — Rat Rogue,{1}{U},false,false
+303,Dour Port-Mage,rare,U,Creature — Frog Wizard,{1}{U},false,false
+304,"Kitsa, Otterball Elite",mythic,U,Legendary Creature — Otter Wizard,{1}{U},false,false
+305,Mockingbird,rare,U,Creature — Bird Bard,{X}{U},true,false
+306,Portent of Calamity,rare,U,Sorcery,{X}{U},true,false
+307,Thundertrap Trainer,rare,U,Creature — Otter Wizard,{1}{U},false,false
+308,Valley Floodcaller,rare,U,Creature — Otter Wizard,{2}{U},true,false
+309,Coiling Rebirth,rare,B,Sorcery,{3}{B}{B},false,false
+310,Cruelclaw's Heist,rare,B,Sorcery,{B}{B},false,false
+311,Darkstar Augur,rare,B,Creature — Bat Warlock,{2}{B},false,false
+312,Osteomancer Adept,rare,B,Creature — Squirrel Warlock,{1}{B},false,false
+313,Valley Rotcaller,rare,B,Creature — Squirrel Warlock,{1}{B},true,true
+314,"Wick, the Whorled Mind",rare,BRU,Legendary Creature — Rat Warlock,{3}{B},false,false
+315,Emberheart Challenger,rare,R,Creature — Mouse Warrior,{1}{R},false,false
+316,Festival of Embers,rare,R,Enchantment,{4}{R},false,false
+317,Hired Claw,rare,R,Creature — Lizard Mercenary,{R},false,false
+318,Manifold Mouse,rare,R,Creature — Mouse Soldier,{1}{R},false,false
+319,Stormsplitter,mythic,R,Creature — Otter Wizard,{3}{R},false,false
+320,Valley Flamecaller,rare,R,Creature — Lizard Warlock,{2}{R},true,false
+321,For the Common Good,rare,G,Sorcery,{X}{X}{G},false,false
+322,Keen-Eyed Curator,rare,G,Creature — Raccoon Scout,{G}{G},false,false
+323,Mistbreath Elder,rare,G,Creature — Frog Warrior,{G},true,false
+324,Scrapshooter,rare,G,Creature — Raccoon Archer,{1}{G}{G},true,false
+325,Tender Wildguide,rare,G,Creature — Possum Druid,{1}{G},false,false
+326,Valley Mightcaller,rare,G,Creature — Frog Warrior,{G},false,false
+327,"Alania, Divergent Storm",rare,RU,Legendary Creature — Otter Wizard,{3}{U}{R},true,false
+328,"Camellia, the Seedmiser",rare,BG,Legendary Creature — Squirrel Warlock,{1}{B}{G},false,false
+329,"Clement, the Worrywort",rare,GU,Legendary Creature — Frog Druid,{1}{G}{U},false,false
+330,"Finneas, Ace Archer",rare,GW,Legendary Creature — Rabbit Archer,{G}{W},false,false
+331,"Glarb, Calamity's Augur",mythic,BGU,Legendary Creature — Frog Wizard Noble,{B}{G}{U},false,false
+332,"Helga, Skittish Seer",mythic,GUW,Legendary Creature — Frog Druid,{G}{W}{U},false,false
+333,"Hugs, Grisly Guardian",mythic,GR,Legendary Creature — Badger Warrior,{X}{R}{R}{G}{G},false,false
+334,The Infamous Cruelclaw,mythic,BR,Legendary Creature — Weasel Mercenary,{1}{B}{R},false,false
+335,"Kastral, the Windcrested",rare,UW,Legendary Creature — Bird Scout,{3}{W}{U},false,false
+336,"Mabel, Heir to Cragflame",rare,RW,Legendary Creature — Mouse Soldier,{1}{R}{W},false,false
+337,Three Tree City,rare,,Legendary Land,,false,false
+338,Three Tree City,rare,,Legendary Land,,false,false
+339,Three Tree City,rare,,Legendary Land,,false,false
+340,Three Tree City,rare,,Legendary Land,,false,false
+341,"Ral, Crackling Wit",mythic,RU,Legendary Planeswalker — Ral,{2}{U}{R},false,false
+342,"Lumra, Bellow of the Woods",mythic,G,Legendary Creature — Elemental Bear,{4}{G}{G},false,false
+343,"Lumra, Bellow of the Woods",mythic,G,Legendary Creature — Elemental Bear,{4}{G}{G},false,false
+344,"Alania, Divergent Storm",rare,RU,Legendary Creature — Otter Wizard,{3}{U}{R},false,false
+345,"Baylen, the Haymaker",rare,GRW,Legendary Creature — Rabbit Warrior,{R}{G}{W},false,false
+346,"Camellia, the Seedmiser",rare,BG,Legendary Creature — Squirrel Warlock,{1}{B}{G},false,false
+347,"Clement, the Worrywort",rare,GU,Legendary Creature — Frog Druid,{1}{G}{U},false,false
+348,"Finneas, Ace Archer",rare,GW,Legendary Creature — Rabbit Archer,{G}{W},false,false
+349,"Gev, Scaled Scorch",rare,BR,Legendary Creature — Lizard Mercenary,{B}{R},false,false
+350,"Kastral, the Windcrested",rare,UW,Legendary Creature — Bird Scout,{3}{W}{U},false,false
+351,"Mabel, Heir to Cragflame",rare,RW,Legendary Creature — Mouse Soldier,{1}{R}{W},false,false
+352,"Muerra, Trash Tactician",rare,GR,Legendary Creature — Raccoon Warrior,{1}{R}{G},false,false
+353,"Ral, Crackling Wit",mythic,RU,Legendary Planeswalker — Ral,{2}{U}{R},false,false
+354,"Vren, the Relentless",rare,BU,Legendary Creature — Rat Rogue,{2}{U}{B},false,false
+355,"Zoraline, Cosmos Caller",rare,BW,Legendary Creature — Bat Cleric,{1}{W}{B},false,false
+356,Essence Channeler,rare,W,Creature — Bat Cleric,{1}{W},true,false
+357,Kitnap,rare,U,Enchantment — Aura,{2}{U}{U},false,false
+358,Wishing Well,rare,U,Artifact,{3}{U},false,false
+359,Iridescent Vinelasher,rare,B,Creature — Lizard Assassin,{B},false,false
+360,Byway Barterer,rare,R,Creature — Raccoon Rogue,{2}{R},false,false
+361,Hearthborn Battler,rare,R,Creature — Lizard Warlock,{2}{R},false,false
+362,Fecund Greenshell,rare,G,Creature — Elemental Turtle,{3}{G}{G},false,false
+363,Pawpatch Recruit,rare,G,Creature — Rabbit Warrior,{G},false,false
+364,Thornvault Forager,rare,G,Creature — Squirrel Ranger,{1}{G},false,false
+365,Dreamdew Entrancer,rare,GU,Creature — Frog Wizard,{2}{G}{U},false,false
+366,Lunar Convocation,rare,BW,Enchantment,{W}{B},false,true
+367,Fabled Passage,rare,,Land,,false,false
+368,Fountainport,rare,,Land,,false,false
+369,Plains,common,W,Basic Land — Plains,,true,true
+370,Plains,common,W,Basic Land — Plains,,true,true
+371,Island,common,U,Basic Land — Island,,true,true
+372,Island,common,U,Basic Land — Island,,true,true
+373,Swamp,common,B,Basic Land — Swamp,,true,true
+374,Swamp,common,B,Basic Land — Swamp,,true,true
+375,Mountain,common,R,Basic Land — Mountain,,true,true
+376,Mountain,common,R,Basic Land — Mountain,,true,true
+377,Forest,common,G,Basic Land — Forest,,true,true
+378,Forest,common,G,Basic Land — Forest,,true,true
+379,"Bria, Riptide Rogue",mythic,RU,Legendary Creature — Otter Rogue,{2}{U}{R},false,false
+380,"Byrke, Long Ear of the Law",mythic,GW,Legendary Creature — Rabbit Soldier,{4}{G}{W},false,false
+381,Hop to It,uncommon,W,Sorcery,{2}{W},false,false
+382,Shoreline Looter,uncommon,U,Creature — Rat Rogue,{1}{U},false,false
+383,Fell,uncommon,B,Sorcery,{1}{B},false,false
+384,Wear Down,uncommon,G,Sorcery,{1}{G},false,false
+385,Stormcatch Mentor,uncommon,RU,Creature — Otter Wizard,{U}{R},false,false
+386,Thundertrap Trainer,rare,U,Creature — Otter Wizard,{1}{U},false,false
+387,Serra Redeemer,rare,W,Creature — Angel Soldier,{3}{W}{W},false,false
+388,Charmed Sleep,common,U,Enchantment — Aura,{1}{U}{U},false,false
+389,Mind Spring,rare,U,Sorcery,{X}{U}{U},false,false
+390,Thieving Otter,common,U,Creature — Otter,{2}{U},false,false
+391,Flame Lash,common,R,Instant,{3}{R},false,false
+392,Colossification,rare,G,Enchantment — Aura,{5}{G}{G},false,false
+393,Giant Growth,common,G,Instant,{G},false,false
+394,Rabid Bite,common,G,Sorcery,{1}{G},false,false
+395,Sword of Vengeance,rare,,Artifact — Equipment,{3},false,false
+396,Blossoming Sands,common,GW,Land,,false,false
+397,Swiftwater Cliffs,common,RU,Land,,false,false
+A-138,A-Heartfire Hero,uncommon,R,Creature — Mouse Soldier,{R},false,false
