@@ -15,5 +15,26 @@
   "bloomburrow": {
     "notes": "Pack-in basic lands are full art (269-281). Normal basic lands (369-378) appear within the special editions block.",
     "specialStartNumber": 282
+  },
+  "reality_fracture": {
+    "notes": "Base set is 1-290 (basics 281-290). Special editions begin at 291. Full-art borderless 321-333 exist only non-foil; 402-422 (serialized headliner + Japan Showcase) and 437-461 (bundle promo, foil-only borderless, Facet Foils) exist only in foil.",
+    "specialStartNumber": 291,
+    "variants": [
+      { "range": [291, 320], "label": "Borderless" },
+      { "range": [321, 333], "label": "Full-Art Non-Foil", "normalOnly": true },
+      { "range": [334, 358], "label": "Showcase" },
+      { "range": [359, 381], "label": "Borderless" },
+      { "range": [382, 396], "label": "Full-Art Basic Lands" },
+      { "range": [397, 401], "label": "Borderless Lands" },
+      { "range": [402, 402], "label": "Serialized Headliner", "foilOnly": true },
+      { "range": [403, 412], "label": "Japan Showcase", "foilOnly": true },
+      { "range": [413, 422], "label": "Japan Showcase Fracture Foil", "foilOnly": true },
+      { "range": [423, 431], "label": "Extended Art" },
+      { "range": [432, 436], "label": "Promo Pack Charms" },
+      { "range": [437, 437], "label": "Bundle Promo", "foilOnly": true },
+      { "range": [438, 448], "label": "Foil-Only Borderless", "foilOnly": true },
+      { "range": [449, 461], "label": "Facet Foil", "foilOnly": true }
+    ],
+    "ckEditions": ["Reality Fracture", "Reality Fracture Variants"]
   }
 }

@@ -1,0 +1,462 @@
+number,name,rarity,color,type,manaCost,normal,foil
+1,"Emrakul, the Exigent Doom",mythic,,Legendary Creature — Eldrazi,{10},false,false
+2,Academic Ascent,common,W,Instant,{1}{W},false,false
+3,Blossom-Blessed Angel // Seed Suture,common,GW,Creature — Angel Cleric // Sorcery,{3}{W} // {G/W},false,false
+4,Campus Crier,common,W,Creature — Human Advisor,{1}{W},false,false
+5,Enlightened Confidant,mythic,W,Creature — Kor Cleric,{1}{W},false,false
+6,Fateshaper Aspirant,common,W,Creature — Rhino Cleric,{4}{W},false,false
+7,Flickering Hound,rare,W,Creature — Dog,{3}{W},false,false
+8,Generous Revival,uncommon,W,Sorcery,{2}{W},false,false
+9,Germinate Recruits,rare,W,Instant,{2}{W},false,false
+10,Graft Surgeon,common,W,Creature — Human Cleric,{2}{W},false,false
+11,Guiding Hydra,rare,W,Creature — Hydra Horror,{X}{W},false,false
+12,Hexhaven Battalion,common,W,Sorcery,{4}{W}{W},false,false
+13,Kindred Judgment,rare,W,Sorcery,{5}{W}{W},false,false
+14,Loyal Tutor,rare,W,Instant,{W},false,false
+15,Memory Trap,common,W,Enchantment,{2}{W},false,false
+16,Predictive Preparations,common,W,Sorcery,{1}{W},false,false
+17,Prophesied End,uncommon,W,Instant,{1}{W},false,false
+18,Refute Destiny,uncommon,W,Sorcery,{1}{W},false,false
+19,Repurposed Enforcer,rare,W,Creature — Human Soldier,{1}{W},false,false
+20,Return to the Light Realms,mythic,W,Sorcery,{7}{W}{W},false,false
+21,Shatterwing Pegasus,common,W,Creature — Pegasus,{2}{W},false,false
+22,Surgical Precision,common,W,Sorcery,{1}{W},false,false
+23,Unflinching Hortimancer,common,W,Creature — Human Cleric,{1}{W},false,false
+24,Your Fate Ends Here,uncommon,W,Instant,{2}{W},false,false
+25,Countersculpt,uncommon,U,Instant,{U}{U},false,false
+26,Cruel Calculations,rare,U,Sorcery,{2}{U},false,false
+27,Cryotheory Adept,common,U,Creature — Human Wizard,{1}{U},false,false
+28,Diviner of Victory // Unwind History,rare,U,Creature — Dwarf Wizard // Sorcery,{U} // {1}{U},false,false
+29,Divining Duelist,common,U,Creature — Merfolk Wizard,{2}{U},false,false
+30,Icy Reception,common,U,Instant,{1}{U},false,false
+31,Infinite Coursework,common,U,Enchantment — Aura,{2}{U},false,false
+32,Jace's Machinations,rare,U,Instant,{2}{U},false,false
+33,Mindseeker Oculus,common,U,Creature — Homunculus,{2}{U},false,false
+34,Perfected Theory,uncommon,U,Instant,{U},false,false
+35,Plan for All Outcomes,uncommon,U,Enchantment,{3}{U},false,false
+36,Precise Redaction,uncommon,U,Instant,{1}{U},false,false
+37,Protege's Awakening,common,U,Sorcery,{3}{U},false,false
+38,Seasoned Cryomancer,mythic,U,Creature — Human Wizard,{1}{U}{U},false,false
+39,Semester Foreseer // Peer Review,common,UW,Creature — Human Wizard // Sorcery,{3}{U} // {2}{W/U},false,false
+40,Sphinx of False Conclusions,rare,U,Creature — Sphinx Illusion,{2}{U}{U},false,false
+41,Sphinx's Approach,common,U,Instant,{1}{U}{U},false,false
+42,Surveillance Phantasm,common,U,Creature — Bird Illusion,{1}{U},false,false
+43,"The Theorist, Jace Beleren",mythic,U,Legendary Planeswalker — Jace,{2}{U}{U},false,false
+44,Theorist's Proxy,rare,U,Creature — Illusion,{1}{U},false,false
+45,Undulating Witness,common,U,Creature — Serpent,{4}{U},false,false
+46,Unsummon,common,U,Instant,{U},false,false
+47,Variable Chaser // Arc of Fortune,rare,U,Creature — Human Wizard // Sorcery,{2}{U} // {2}{U},false,false
+48,Apex Witchstalker,common,B,Creature — Wolf,{4}{B}{B},false,false
+49,Bloodline Recollector // Ancestral Craving,mythic,B,Creature — Vampire Warlock // Instant,{1}{B} // {B},false,false
+50,Break Under Pressure,uncommon,B,Instant,{2}{B},false,false
+51,Cast Away Doubt,common,B,Sorcery,{2}{B},false,false
+52,Dark Matter Manipulator,rare,B,Creature — Human Warlock,{B},false,false
+53,Darklight Phoenix,mythic,B,Creature — Phoenix,{3}{B},false,false
+54,Extended Absence,common,B,Instant,{3}{B},false,false
+55,Extrapolate the Impossible,rare,B,Sorcery,{1}{B},false,false
+56,Last Gasp,common,B,Instant,{1}{B},false,false
+57,Lich's Relic,rare,B,Artifact — Equipment,{B},false,false
+58,Multiply by Zero,uncommon,B,Instant,{1}{B},false,false
+59,Overwrite the Multiverse,mythic,B,Sorcery,{4}{B}{B},false,false
+60,Rampart Hunter,common,B,Creature — Horror,{3}{B},false,false
+61,Rank Rat,common,B,Creature — Zombie Rat,{1}{B},false,false
+62,Rewrite Regrets,uncommon,B,Sorcery,{3}{B},false,false
+63,Rise of the Deathbringer,rare,B,Instant,{4}{B},false,false
+64,Sanctum Lurker,rare,B,Creature — Horror,{2}{B},false,false
+65,Screeching Soulbreaker,common,B,Creature — Siren Bard,{2}{B},false,false
+66,Silence the Echo,common,B,Sorcery,{1}{B},false,false
+67,Solve for Disappointment,common,B,Sorcery,{1}{B},false,false
+68,Terminal Criticism,uncommon,B,Instant,{1}{B},false,false
+69,Theoretical Necromancer,common,B,Creature — Vampire Warlock,{2}{B},false,false
+70,Void Extrapolator // Omit Variables,common,BU,Creature — Aetherborn Warlock // Sorcery,{1}{B} // {U/B},false,false
+71,Vraska's Final Mercy,rare,B,Sorcery,{B}{B},false,false
+72,Ajani's Anguish,rare,R,Enchantment,{X}{R},false,false
+73,Artifist Acumen,common,R,Sorcery,{R},false,false
+74,Awaken the Inferno,common,R,Sorcery,{4}{R},false,false
+75,Blazing Crescendo,common,R,Instant,{1}{R},false,false
+76,Chandra's Emberling,common,R,Creature — Gremlin Elemental,{2}{R},false,false
+77,Command the Stage,uncommon,R,Sorcery,{2}{R},false,false
+78,Craterclaw Colossus,mythic,R,Artifact Creature — Beast Construct,{4}{R}{R}{R},false,false
+79,Curse-Marred Demon,rare,R,Creature — Demon,{2}{R}{R},false,false
+80,Draconic Visitor,rare,R,Creature — Dragon,{3}{R}{R},false,false
+81,Eardrum Rattler,common,R,Creature — Human Bard,{1}{R},false,false
+82,Essence Burn,uncommon,R,Instant,{1}{R},false,false
+83,Face Yourself,rare,R,Sorcery,{5}{R}{R},false,false
+84,Fulminous Forte,uncommon,R,Instant,{2}{R},false,false
+85,Hallway Heckler // Vicious Verse,common,BR,Creature — Elemental Sorcerer // Sorcery,{2}{R} // {B/R},false,false
+86,Heartstring Puller,common,R,Creature — Elf Sorcerer,{3}{R},false,false
+87,Identity Echo,rare,R,Enchantment,{2}{R},false,false
+88,Master of Barbs,rare,R,Creature — Lizard Bard,{1}{R},false,false
+89,No Admittance,common,R,Sorcery,{1}{R},false,false
+90,Pompous Battlemage // Improvised Act,rare,R,Creature — Goblin Sorcerer // Sorcery,{R} // {R},false,false
+91,Pyre Rhymer // Molten Tide,rare,R,Creature — Elemental Sorcerer // Instant,{1}{R}{R} // {R},false,false
+92,Skilled Battlecarver,common,R,Creature — Human Warrior,{1}{R},false,false
+93,Stingcaster Mage,mythic,R,Creature — Human Wizard,{1}{R},false,false
+94,Tether Technician,common,R,Creature — Minotaur Artificer,{4}{R},false,false
+95,Violent Echoes,uncommon,R,Instant,{2}{R}{R},false,false
+96,Wrath of the Bloodmane,common,R,Instant,{2}{R},false,false
+97,Arcane Amphisbaena,common,G,Creature — Snake,{1}{G},false,false
+98,Bestial Incursion,common,G,Sorcery,{3}{G},false,false
+99,Budding Insurgent,common,G,Creature — Dryad Scout,{2}{G},false,false
+100,Carnivorous Cultivator // Enroot,rare,G,Creature — Elf Warlock // Sorcery,{1}{G} // {G},false,false
+101,Compel Brutality,common,G,Instant,{1}{G},false,false
+102,Flourishing Grapple,uncommon,G,Instant,{G},false,false
+103,Gardenize,rare,G,Enchantment,{1}{G}{G},false,false
+104,Greenhouse Propagator,common,G,Creature — Cat Druid,{2}{G},false,false
+105,Heartwood Crafter // Soul Tether,uncommon,GR,Creature — Elf Artificer // Sorcery,{G} // {2}{R/G},false,false
+106,Hexhaven Invigorator,mythic,G,Creature — Chimera Horror,{G}{G}{G}{G},false,false
+107,Hungering Puppetbeast,rare,G,Artifact Creature — Beast Construct,{3}{G}{G},false,false
+108,Hunter's Axe,uncommon,G,Artifact — Equipment,{G},false,false
+109,Inspired Tethermage,common,G,Creature — Elf Warrior,{2}{G},false,false
+110,Omnipresence,mythic,G,Enchantment,{5}{G}{G}{G},false,false
+111,Puppet Crafting,rare,G,Enchantment — Aura,{1}{G},false,false
+112,Restore with Empathy,uncommon,G,Instant,{2}{G},false,false
+113,Simulacrum Shaper,rare,G,Creature — Elf Druid,{1}{G}{G},false,false
+114,Something Worth Saving,common,G,Instant,{1}{G},false,false
+115,Sureshot Sower,common,G,Creature — Human Archer,{1}{G},false,false
+116,Tarmogoyf,mythic,G,Creature — Lhurgoyf,{1}{G},false,false
+117,Tethermage's Advantage,common,G,Instant,{G},false,false
+118,Verdant Kraken,rare,G,Creature — Plant Kraken,{4}{G}{G}{G},false,false
+119,Vinelasher Adept,common,G,Creature — Rhino Soldier,{4}{G}{G},false,false
+120,Wrecking Gecko,common,G,Artifact Creature — Lizard Construct,{4}{G},false,false
+121,Aerid Konstrari,mythic,GR,Legendary Creature — Elder Sphinx,{1}{R}{G}{G},false,false
+122,Avatar of Burgeoning Echoes,mythic,GU,Creature — Avatar,{G}{U},false,false
+123,Blessed Ghoul,common,BW,Creature — Zombie Cleric,{W/B},false,false
+124,Bloombrute,uncommon,GW,Creature — Plant Elemental,{2}{G}{W},false,false
+125,Charge the Sanctum,common,RW,Instant,{2}{R/W},false,false
+126,Clash of Elements,uncommon,RU,Instant,{1}{U}{R},false,false
+127,Craftwork Crusher,uncommon,GR,Artifact Creature — Boar Construct,{3}{R}{R}{G}{G},false,false
+128,Denzilore Fatehold,mythic,UW,Legendary Creature — Elder Sphinx,{1}{W}{U}{U},false,false
+129,Desperate Futurescribe,uncommon,UW,Creature — Kor Scout,{2}{W}{U},false,false
+130,Emergency Phytomedic // Seed Suture,common,GW,Creature — Dryad Cleric // Sorcery,{G/W} // {G/W},false,false
+131,Entrust the Spark,rare,GU,Sorcery,{3}{G}{U},false,false
+132,Fatehold Charm,uncommon,UW,Instant,{W}{U},false,false
+133,Fatehold Chronologist // Peer Review,common,UW,Creature — Bird Wizard // Sorcery,{1}{W/U} // {2}{W/U},false,false
+134,Ferocity of the Hunt,common,BG,Enchantment — Aura,{1}{B/G},false,false
+135,Frostbite Pyromental,rare,RU,Creature — Elemental,{U}{R}{R},false,false
+136,Grim Repriser,uncommon,BR,Creature — Zombie Bard,{B}{R},false,false
+137,Ingris Stingerquill,mythic,BR,Legendary Creature — Elder Sphinx,{B}{R}{R},false,false
+138,Konstrari Charm,uncommon,GR,Instant,{R}{G},false,false
+139,Konstrari Improviser // Soul Tether,common,GR,Creature — Human Artificer // Sorcery,{1}{R/G} // {2}{R/G},false,false
+140,Kwia Vigorbloom,mythic,GW,Legendary Creature — Elder Sphinx,{3}{G}{W}{W},false,false
+141,Mind Meanderer,uncommon,GU,Creature — Bird Fish Illusion,{3}{G}{U}{U},false,false
+142,Null Summoner,rare,BU,Creature — Human Warlock,{2}{U}{B},false,false
+143,Paradox Shaper // Omit Variables,uncommon,BU,Creature — Octopus Wizard // Sorcery,{1}{U/B} // {U/B},false,false
+144,Primal Witchstalker,uncommon,BG,Creature — Wolf,{1}{B}{G},false,false
+145,Proctor of Potential,rare,UW,Creature — Human Cleric,{W}{U},false,false
+146,Prudent Fateseer // Peer Review,uncommon,UW,Creature — Dwarf Wizard // Sorcery,{1}{W/U}{W/U} // {2}{W/U},false,false
+147,Recursive Recruitment,uncommon,BU,Sorcery,{2}{U}{B},false,false
+148,Solarium Sentry,rare,GW,Creature — Cat Soldier,{G}{W},false,false
+149,Solitary Cell,rare,RW,Artifact,{R}{W},false,false
+150,Stingerquill Charm,uncommon,BR,Instant,{B}{R},false,false
+151,Stingerquill Voxmancer // Vicious Verse,uncommon,BR,Creature — Goblin Sorcerer // Sorcery,{B/R} // {B/R},false,false
+152,Stinging Vitriol,rare,BR,Sorcery,{B}{R},false,false
+153,Tam's Resistance,common,GU,Sorcery,{1}{G/U},false,false
+154,Tenured Tethermage,rare,GR,Creature — Human Artificer,{1}{R}{G},false,false
+155,Theorix Charm,uncommon,BU,Instant,{U}{B},false,false
+156,Theorix Metamage // Omit Variables,common,BU,Creature — Shade Wizard // Sorcery,{2}{U/B} // {U/B},false,false
+157,Twinned Vision,common,RU,Instant,{1}{U/R},false,false
+158,Twisted Fates,uncommon,BW,Sorcery,{2}{W}{W}{B},false,false
+159,Uldaros Theorix,mythic,BU,Legendary Creature — Elder Sphinx,{3}{U}{B}{B},false,false
+160,Vigorbloom Charm,uncommon,GW,Instant,{G}{W},false,false
+161,Vigorbloom Vanguard // Seed Suture,uncommon,GW,Creature — Troll Druid // Sorcery,{1}{G/W} // {G/W},false,false
+162,Vindictive Triumph,rare,BW,Instant,{W}{B}{B},false,false
+163,Warrior's Blades,uncommon,RW,Artifact — Equipment,{2}{R}{W},false,false
+164,Whiplash Wordsmith // Vicious Verse,common,BR,Creature — Vampire Sorcerer // Sorcery,{3}{B/R} // {B/R},false,false
+165,Woodwork Prodigy // Soul Tether,uncommon,GR,Creature — Cat Druid // Sorcery,{2}{R/G} // {2}{R/G},false,false
+166,Afterthought Sentry,common,,Artifact Creature — Gargoyle,{2},false,false
+167,Archive Arbiter,uncommon,,Artifact Creature — Sphinx,{6},false,false
+168,"Codie, Ravenous Codex",rare,BGRUW,Legendary Artifact Creature — Book Construct,{3},false,false
+169,The Echoverse Fulcrum,mythic,,Legendary Artifact,{2},false,false
+170,Eye of Jace,uncommon,,Artifact,{1},false,false
+171,Keeper of the Quiet Hour,common,,Artifact Creature — Chimera,{3},false,false
+172,Living Library,common,,Artifact Creature — Book Illusion,{2},false,false
+173,Medic's Kitesail,common,,Artifact — Equipment,{2},false,false
+174,Murmuring Volume,common,,Artifact — Book,{3},false,false
+175,Dedicated Commons,common,RW,Land,,false,false
+176,Deserted Beach,rare,UW,Land,,false,false
+177,Fatehold Annex,common,UW,Land,,false,false
+178,Formidable Commons,common,BG,Land,,false,false
+179,Hall of Echoes,rare,,Land,,false,false
+180,Haunted Ridge,rare,BR,Land,,false,false
+181,Hexhaven Dueling Arena,uncommon,,Land,,false,false
+182,Innovative Commons,common,RU,Land,,false,false
+183,Konstrari Annex,common,GR,Land,,false,false
+184,Meticulous Commons,common,BW,Land,,false,false
+185,Overgrown Farmland,rare,GW,Land,,false,false
+186,Rockfall Vale,rare,GR,Land,,false,false
+187,Roiling Canopy,rare,G,Land,,false,false
+188,Room of Refuge,common,,Land,,false,false
+189,Shipwreck Marsh,rare,BU,Land,,false,false
+190,Stingerquill Annex,common,BR,Land,,false,false
+191,Theorist's Sanctum,rare,U,Land — Island,,false,false
+192,Theorix Annex,common,BU,Land,,false,false
+193,Transformative Commons,common,GU,Land,,false,false
+194,Vigorbloom Annex,common,GW,Land,,false,false
+195,Ajani Resolute,mythic,W,Legendary Planeswalker — Ajani,{1}{W},false,false
+196,"Danitha, Sword of Hope",uncommon,W,Legendary Creature — Human Knight,{2}{W},false,false
+197,Ghalta the Immovable,uncommon,W,Legendary Creature — Elder Dinosaur,{8}{W},false,false
+198,Gideon's Memorial,rare,W,Legendary Artifact,{1}{W},false,false
+199,Koth of the Homestead,uncommon,W,Legendary Creature — Human Citizen,{2}{W},false,false
+200,Liliana the Faultless,rare,W,Legendary Creature — Human Cleric,{W},false,false
+201,"Lyra, Archangel of Dawn",rare,W,Legendary Creature — Angel Knight,{2}{W},false,false
+202,"Rescue Girl, First Responder",uncommon,W,Legendary Creature — Human Cleric,{2}{W},false,false
+203,"Saheeli, Consul of Oversight",uncommon,W,Legendary Creature — Human Advisor,{3}{W}{W},false,false
+204,"Teyo, Lightshield Expert",uncommon,W,Legendary Creature — Human Cleric,{1}{W},false,false
+205,"Thalia, the Survivor",uncommon,W,Legendary Creature — Human Soldier,{3}{W},false,false
+206,"Tomik, Orzhov Lawmage",uncommon,W,Legendary Creature — Human Advisor,{1}{W},false,false
+207,Way of the Healer,uncommon,W,Legendary Enchantment,{3}{W},false,false
+208,Way of the Mentor,uncommon,W,Legendary Enchantment,{2}{W},false,false
+209,"Yoshimaru, Beloved Companion",uncommon,W,Legendary Creature — Dog,{2}{W},false,false
+210,"Yuriko, Blade of the Mighty",uncommon,W,Legendary Creature — Human Samurai,{3}{W},false,false
+211,"Arni, Humble Scribe",uncommon,U,Legendary Creature — Human Wizard,{2}{U},false,false
+212,"Chandra, Chill of Compliance",mythic,U,Legendary Planeswalker — Chandra,{1}{U}{U},false,false
+213,"Fblthp, Impossibly Lost",uncommon,U,Legendary Creature — Homunculus,{1}{U},false,false
+214,Geist of Saint Thalia,uncommon,U,Legendary Creature — Spirit Cleric,{1}{U},false,false
+215,"Hapatra, the Desert Frost",uncommon,U,Legendary Creature — Human Wizard,{3}{U},false,false
+216,"Jace, Reality Sculptor",rare,U,Legendary Planeswalker — Jace,{3}{U}{U},false,false
+217,"Lyra, Tolarian Archangel",rare,U,Legendary Creature — Angel Wizard,{1}{U}{U},false,false
+218,"Proft, Consulting Detective",uncommon,U,Legendary Creature — Human Detective,{1}{U},false,false
+219,"Ruric Thar, Biomagus",uncommon,U,Legendary Creature — Ogre Crab Wizard,{4}{U}{U},false,false
+220,"Samut, Tyrant of Naktamun",rare,U,Legendary Creature — Human Wizard,{1}{U},false,false
+221,"Tetsuko Umezawa, Fugitive",uncommon,U,Legendary Creature — Human Rogue,{1}{U},false,false
+222,"Traxos, Academy Guardian",uncommon,U,Legendary Artifact Creature — Dragon Construct,{3}{U},false,false
+223,Way of the Cryomancer,uncommon,U,Legendary Enchantment,{2}{U},false,false
+224,Way of the Mind Sculptor,uncommon,U,Legendary Enchantment,{4}{U},false,false
+225,"Yargle, Goliath of Otaria",uncommon,U,Legendary Creature — Frog Spirit,{4}{U},false,false
+226,"Yuriko, Hope from the Shadows",uncommon,U,Legendary Creature — Human Ninja,{U},false,false
+227,"Danitha, Spear of Agony",uncommon,B,Legendary Creature — Human Knight,{2}{B},false,false
+228,"Gallia, Tragic Host",uncommon,B,Legendary Creature — Zombie Satyr,{1}{B},false,false
+229,"Garruk, Veiled Butcher",mythic,B,Legendary Planeswalker — Garruk,{3}{B}{B},false,false
+230,Gideon the Oathless,rare,B,Legendary Creature — Human Mercenary,{2}{B},false,false
+231,Liliana the Repentant,rare,B,Legendary Creature — Human Warlock,{1}{B},false,false
+232,"Loot, the Anomaly",uncommon,B,Legendary Creature — Beast Horror,{2}{B},false,false
+233,"Mabel, Bitter Recluse",uncommon,B,Legendary Creature — Mouse Warlock,{B},false,false
+234,"Massacre Girl, Most Wanted",uncommon,B,Legendary Creature — Human Assassin,{4}{B},false,false
+235,"Proft, Sinister Mastermind",uncommon,B,Legendary Creature — Human Rogue,{2}{B},false,false
+236,"Teyo, Diamondblade Mage",uncommon,B,Legendary Creature — Human Warlock,{3}{B},false,false
+237,"Tinybones, Pocket Nuisance",uncommon,B,Legendary Creature — Skeleton Rogue,{2}{B},false,false
+238,Way of the Deathbringer,uncommon,B,Legendary Enchantment,{2}{B},false,false
+239,Way of the Necromancer,uncommon,B,Legendary Enchantment,{1}{B},false,false
+240,"Winter, Tormented Loner",uncommon,B,Legendary Creature — Human Warlock,{2}{B},false,false
+241,"Yargle, Glutton of Urborg",uncommon,B,Legendary Creature — Frog Spirit,{4}{B},false,false
+242,Ajani Unrelenting,mythic,R,Legendary Planeswalker — Ajani,{4}{R}{R},false,false
+243,"Arni, Renowned Champion",uncommon,R,Legendary Creature — Human Berserker,{3}{R},false,false
+244,"Chandra, Torch of Defiance",mythic,R,Legendary Planeswalker — Chandra,{2}{R}{R},false,false
+245,"Gallia, the Merrymaker",uncommon,R,Legendary Creature — Satyr,{1}{R},false,false
+246,"Jiang Yanggu, Alone",uncommon,R,Legendary Creature — Human Berserker,{4}{R},false,false
+247,Kiora of Fire and Ashes,uncommon,R,Legendary Creature — Merfolk Noble,{4}{R}{R},false,false
+248,"Koth, the Geomancer",uncommon,R,Legendary Creature — Human Warrior,{2}{R},false,false
+249,"Marwyn, the Clearcutter",uncommon,R,Legendary Creature — Elf Warrior,{R},false,false
+250,"Pia, Determined Rebuilder",uncommon,R,Legendary Creature — Human Artificer,{2}{R},false,false
+251,"Samut, Hazoret's Champion",rare,R,Legendary Creature — Human Warrior Cleric,{1}{R},false,false
+252,"Tetsuko Umezawa, Pursuer",uncommon,R,Legendary Creature — Human Mercenary,{3}{R},false,false
+253,"Tomik, Izzet Sparkmage",uncommon,R,Legendary Creature — Human Wizard,{1}{R},false,false
+254,Way of the Pyromancer,uncommon,R,Legendary Enchantment,{1}{R},false,false
+255,Way of the Warlord,uncommon,R,Legendary Enchantment,{2}{R},false,false
+256,"Winter, Team Player",uncommon,R,Legendary Creature — Human Warrior,{4}{R},false,false
+257,"Edgar, Moonlit Sovereign",uncommon,G,Legendary Creature — Werewolf Noble,{3}{G}{G},false,false
+258,"Fblthp, Knows the Way",uncommon,G,Legendary Creature — Homunculus Scout,{X}{G}{G},false,false
+259,"Garruk, Curse Breaker",mythic,G,Legendary Planeswalker — Garruk,{3}{G}{G},false,false
+260,Ghalta the Unstoppable,uncommon,G,Legendary Creature — Elder Dinosaur,{8}{G},false,false
+261,"Jiang Yanggu, Never Alone",uncommon,G,Legendary Creature — Human Druid,{3}{G},false,false
+262,"Loot, the Nexus",uncommon,G,Legendary Creature — Beast Noble,{2}{G},false,false
+263,"Marwyn, the Preserver",uncommon,G,Legendary Creature — Elf Druid,{1}{G},false,false
+264,"Pia, Aether Ascetic",uncommon,G,Legendary Creature — Human Druid,{2}{G},false,false
+265,"Ruric Thar, Magecrusher",uncommon,G,Legendary Creature — Ogre Warrior,{5}{G}{G},false,false
+266,"Titanbones, Towering Heart",uncommon,G,Legendary Creature — Skeleton Druid,{3}{G},false,false
+267,Way of the Paradox,uncommon,G,Legendary Enchantment,{2}{G},false,false
+268,Way of the Wildspeaker,uncommon,G,Legendary Enchantment,{4}{G},false,false
+269,"Yoshimaru, Scrappy Stray",uncommon,G,Legendary Creature — Dog,{1}{G},false,false
+270,"Edgar, Ancient Bloodlord",uncommon,BW,Legendary Creature — Vampire Noble,{W}{B},false,false
+271,"Hapatra, the Desert Fang",uncommon,BG,Legendary Creature — Human Cleric,{2}{B}{B}{G},false,false
+272,"Karn, Gilded Guardian",rare,BGRUW,Legendary Artifact Creature — Golem,{2/W}{2/U}{2/B}{2/R}{2/G},false,false
+273,Kiora of Salt and Sand,uncommon,GU,Legendary Creature — Merfolk Noble,{1}{G}{U},false,false
+274,"Mabel, Valley Hero",uncommon,RW,Legendary Creature — Mouse Soldier,{1}{R}{W},false,false
+275,"Saheeli, Jewel of Avishkar",uncommon,RU,Legendary Creature — Human Artificer,{2}{U}{R},false,false
+276,"Tam, the Possibility",rare,BGRUW,Legendary Creature — Gorgon Wizard,{1}{G}{U},false,false
+277,"Vraska, Soul of Stone",rare,RUW,Legendary Creature — Gorgon Wizard,{U}{R}{W},false,false
+278,"Vraska, the Cutting Glare",rare,BG,Legendary Creature — Gorgon Assassin,{B}{B}{G},false,false
+279,"Karn, Argent Defender",rare,,Legendary Artifact Creature — Golem,{2},false,false
+280,"Traxos, Scourge Eternal",uncommon,,Legendary Artifact Creature — Dragon Construct,{4},false,false
+281,Plains,common,W,Basic Land — Plains,,false,false
+282,Plains,common,W,Basic Land — Plains,,false,false
+283,Island,common,U,Basic Land — Island,,false,false
+284,Island,common,U,Basic Land — Island,,false,false
+285,Swamp,common,B,Basic Land — Swamp,,false,false
+286,Swamp,common,B,Basic Land — Swamp,,false,false
+287,Mountain,common,R,Basic Land — Mountain,,false,false
+288,Mountain,common,R,Basic Land — Mountain,,false,false
+289,Forest,common,G,Basic Land — Forest,,false,false
+290,Forest,common,G,Basic Land — Forest,,false,false
+291,Ajani Resolute,mythic,W,Legendary Planeswalker — Ajani,{1}{W},false,false
+292,Gideon's Memorial,rare,W,Legendary Artifact,{1}{W},false,false
+293,Liliana the Faultless,rare,W,Legendary Creature — Human Cleric,{W},false,false
+294,"Lyra, Archangel of Dawn",rare,W,Legendary Creature — Angel Knight,{2}{W},false,false
+295,"Teyo, Lightshield Expert",uncommon,W,Legendary Creature — Human Cleric,{1}{W},false,false
+296,"Thalia, the Survivor",uncommon,W,Legendary Creature — Human Soldier,{3}{W},false,false
+297,"Chandra, Chill of Compliance",mythic,U,Legendary Planeswalker — Chandra,{1}{U}{U},false,false
+298,"Fblthp, Impossibly Lost",uncommon,U,Legendary Creature — Homunculus,{1}{U},false,false
+299,Geist of Saint Thalia,uncommon,U,Legendary Creature — Spirit Cleric,{1}{U},false,false
+300,"Jace, Reality Sculptor",rare,U,Legendary Planeswalker — Jace,{3}{U}{U},false,false
+301,"Lyra, Tolarian Archangel",rare,U,Legendary Creature — Angel Wizard,{1}{U}{U},false,false
+302,"Samut, Tyrant of Naktamun",rare,U,Legendary Creature — Human Wizard,{1}{U},false,false
+303,"Garruk, Veiled Butcher",mythic,B,Legendary Planeswalker — Garruk,{3}{B}{B},false,false
+304,Gideon the Oathless,rare,B,Legendary Creature — Human Mercenary,{2}{B},false,false
+305,Liliana the Repentant,rare,B,Legendary Creature — Human Warlock,{1}{B},false,false
+306,"Teyo, Diamondblade Mage",uncommon,B,Legendary Creature — Human Warlock,{3}{B},false,false
+307,"Winter, Tormented Loner",uncommon,B,Legendary Creature — Human Warlock,{2}{B},false,false
+308,Ajani Unrelenting,mythic,R,Legendary Planeswalker — Ajani,{4}{R}{R},false,false
+309,"Chandra, Torch of Defiance",mythic,R,Legendary Planeswalker — Chandra,{2}{R}{R},false,false
+310,"Marwyn, the Clearcutter",uncommon,R,Legendary Creature — Elf Warrior,{R},false,false
+311,"Samut, Hazoret's Champion",rare,R,Legendary Creature — Human Warrior Cleric,{1}{R},false,false
+312,"Winter, Team Player",uncommon,R,Legendary Creature — Human Warrior,{4}{R},false,false
+313,"Fblthp, Knows the Way",uncommon,G,Legendary Creature — Homunculus Scout,{X}{G}{G},false,false
+314,"Garruk, Curse Breaker",mythic,G,Legendary Planeswalker — Garruk,{3}{G}{G},false,false
+315,"Marwyn, the Preserver",uncommon,G,Legendary Creature — Elf Druid,{1}{G},false,false
+316,"Karn, Gilded Guardian",rare,BGRUW,Legendary Artifact Creature — Golem,{2/W}{2/U}{2/B}{2/R}{2/G},false,false
+317,"Tam, the Possibility",rare,BGRUW,Legendary Creature — Gorgon Wizard,{1}{G}{U},false,false
+318,"Vraska, Soul of Stone",rare,RUW,Legendary Creature — Gorgon Wizard,{U}{R}{W},false,false
+319,"Vraska, the Cutting Glare",rare,BG,Legendary Creature — Gorgon Assassin,{B}{B}{G},false,false
+320,"Karn, Argent Defender",rare,,Legendary Artifact Creature — Golem,{2},false,false
+321,Enlightened Confidant,mythic,W,Creature — Kor Cleric,{1}{W},false,false
+322,Kindred Judgment,rare,W,Sorcery,{5}{W}{W},false,false
+323,Return to the Light Realms,mythic,W,Sorcery,{7}{W}{W},false,false
+324,Seasoned Cryomancer,mythic,U,Creature — Human Wizard,{1}{U}{U},false,false
+325,Darklight Phoenix,mythic,B,Creature — Phoenix,{3}{B},false,false
+326,Rise of the Deathbringer,rare,B,Instant,{4}{B},false,false
+327,Craterclaw Colossus,mythic,R,Artifact Creature — Beast Construct,{4}{R}{R}{R},false,false
+328,Curse-Marred Demon,rare,R,Creature — Demon,{2}{R}{R},false,false
+329,Stingcaster Mage,mythic,R,Creature — Human Wizard,{1}{R},false,false
+330,Hexhaven Invigorator,mythic,G,Creature — Chimera Horror,{G}{G}{G}{G},false,false
+331,Omnipresence,mythic,G,Enchantment,{5}{G}{G}{G},false,false
+332,Simulacrum Shaper,rare,G,Creature — Elf Druid,{1}{G}{G},false,false
+333,Frostbite Pyromental,rare,RU,Creature — Elemental,{U}{R}{R},false,false
+334,Germinate Recruits,rare,W,Instant,{2}{W},false,false
+335,Repurposed Enforcer,rare,W,Creature — Human Soldier,{1}{W},false,false
+336,Cruel Calculations,rare,U,Sorcery,{2}{U},false,false
+337,Jace's Machinations,rare,U,Instant,{2}{U},false,false
+338,Sphinx of False Conclusions,rare,U,Creature — Sphinx Illusion,{2}{U}{U},false,false
+339,Theorist's Proxy,rare,U,Creature — Illusion,{1}{U},false,false
+340,Dark Matter Manipulator,rare,B,Creature — Human Warlock,{B},false,false
+341,Overwrite the Multiverse,mythic,B,Sorcery,{4}{B}{B},false,false
+342,Sanctum Lurker,rare,B,Creature — Horror,{2}{B},false,false
+343,Vraska's Final Mercy,rare,B,Sorcery,{B}{B},false,false
+344,Master of Barbs,rare,R,Creature — Lizard Bard,{1}{R},false,false
+345,Gardenize,rare,G,Enchantment,{1}{G}{G},false,false
+346,Hungering Puppetbeast,rare,G,Artifact Creature — Beast Construct,{3}{G}{G},false,false
+347,Aerid Konstrari,mythic,GR,Legendary Creature — Elder Sphinx,{1}{R}{G}{G},false,false
+348,Avatar of Burgeoning Echoes,mythic,GU,Creature — Avatar,{G}{U},false,false
+349,Denzilore Fatehold,mythic,UW,Legendary Creature — Elder Sphinx,{1}{W}{U}{U},false,false
+350,Entrust the Spark,rare,GU,Sorcery,{3}{G}{U},false,false
+351,Ingris Stingerquill,mythic,BR,Legendary Creature — Elder Sphinx,{B}{R}{R},false,false
+352,Kwia Vigorbloom,mythic,GW,Legendary Creature — Elder Sphinx,{3}{G}{W}{W},false,false
+353,Null Summoner,rare,BU,Creature — Human Warlock,{2}{U}{B},false,false
+354,Proctor of Potential,rare,UW,Creature — Human Cleric,{W}{U},false,false
+355,Solitary Cell,rare,RW,Artifact,{R}{W},false,false
+356,Stinging Vitriol,rare,BR,Sorcery,{B}{R},false,false
+357,Tenured Tethermage,rare,GR,Creature — Human Artificer,{1}{R}{G},false,false
+358,Uldaros Theorix,mythic,BU,Legendary Creature — Elder Sphinx,{3}{U}{B}{B},false,false
+359,Flickering Hound,rare,W,Creature — Dog,{3}{W},false,false
+360,Guiding Hydra,rare,W,Creature — Hydra Horror,{X}{W},false,false
+361,Refute Destiny,uncommon,W,Sorcery,{1}{W},false,false
+362,Precise Redaction,uncommon,U,Instant,{1}{U},false,false
+363,"The Theorist, Jace Beleren",mythic,U,Legendary Planeswalker — Jace,{2}{U}{U},false,false
+364,Extrapolate the Impossible,rare,B,Sorcery,{1}{B},false,false
+365,Lich's Relic,rare,B,Artifact — Equipment,{B},false,false
+366,Terminal Criticism,uncommon,B,Instant,{1}{B},false,false
+367,Ajani's Anguish,rare,R,Enchantment,{X}{R},false,false
+368,Draconic Visitor,rare,R,Creature — Dragon,{3}{R}{R},false,false
+369,Essence Burn,uncommon,R,Instant,{1}{R},false,false
+370,Face Yourself,rare,R,Sorcery,{5}{R}{R},false,false
+371,Identity Echo,rare,R,Enchantment,{2}{R},false,false
+372,Flourishing Grapple,uncommon,G,Instant,{G},false,false
+373,Puppet Crafting,rare,G,Enchantment — Aura,{1}{G},false,false
+374,Tarmogoyf,mythic,G,Creature — Lhurgoyf,{1}{G},false,false
+375,Verdant Kraken,rare,G,Creature — Plant Kraken,{4}{G}{G}{G},false,false
+376,Solarium Sentry,rare,GW,Creature — Cat Soldier,{G}{W},false,false
+377,Vindictive Triumph,rare,BW,Instant,{W}{B}{B},false,false
+378,The Echoverse Fulcrum,mythic,,Legendary Artifact,{2},false,false
+379,Hall of Echoes,rare,,Land,,false,false
+380,Roiling Canopy,rare,G,Land,,false,false
+381,Theorist's Sanctum,rare,U,Land — Island,,false,false
+382,Plains,common,W,Basic Land — Plains,,false,false
+383,Plains,common,W,Basic Land — Plains,,false,false
+384,Plains,common,W,Basic Land — Plains,,false,false
+385,Island,common,U,Basic Land — Island,,false,false
+386,Island,common,U,Basic Land — Island,,false,false
+387,Island,common,U,Basic Land — Island,,false,false
+388,Swamp,common,B,Basic Land — Swamp,,false,false
+389,Swamp,common,B,Basic Land — Swamp,,false,false
+390,Swamp,common,B,Basic Land — Swamp,,false,false
+391,Mountain,common,R,Basic Land — Mountain,,false,false
+392,Mountain,common,R,Basic Land — Mountain,,false,false
+393,Mountain,common,R,Basic Land — Mountain,,false,false
+394,Forest,common,G,Basic Land — Forest,,false,false
+395,Forest,common,G,Basic Land — Forest,,false,false
+396,Forest,common,G,Basic Land — Forest,,false,false
+397,Deserted Beach,rare,UW,Land,,false,false
+398,Haunted Ridge,rare,BR,Land,,false,false
+399,Overgrown Farmland,rare,GW,Land,,false,false
+400,Rockfall Vale,rare,GR,Land,,false,false
+401,Shipwreck Marsh,rare,BU,Land,,false,false
+402,Bloodline Recollector // Ancestral Craving,mythic,B,Creature — Vampire Warlock // Instant,{1}{B} // {B},false,false
+403,"Emrakul, the Exigent Doom",mythic,,Legendary Creature — Eldrazi,{10},false,false
+404,Loyal Tutor,mythic,W,Instant,{W},false,false
+405,"The Theorist, Jace Beleren",mythic,U,Legendary Planeswalker — Jace,{2}{U}{U},false,false
+406,Gardenize,mythic,G,Enchantment,{1}{G}{G},false,false
+407,Aerid Konstrari,mythic,GR,Legendary Creature — Elder Sphinx,{1}{R}{G}{G},false,false
+408,Denzilore Fatehold,mythic,UW,Legendary Creature — Elder Sphinx,{1}{W}{U}{U},false,false
+409,Ingris Stingerquill,mythic,BR,Legendary Creature — Elder Sphinx,{B}{R}{R},false,false
+410,Kwia Vigorbloom,mythic,GW,Legendary Creature — Elder Sphinx,{3}{G}{W}{W},false,false
+411,Uldaros Theorix,mythic,BU,Legendary Creature — Elder Sphinx,{3}{U}{B}{B},false,false
+412,"Codie, Ravenous Codex",mythic,BGRUW,Legendary Artifact Creature — Book Construct,{3},false,false
+413,"Emrakul, the Exigent Doom",mythic,,Legendary Creature — Eldrazi,{10},false,false
+414,Loyal Tutor,mythic,W,Instant,{W},false,false
+415,"The Theorist, Jace Beleren",mythic,U,Legendary Planeswalker — Jace,{2}{U}{U},false,false
+416,Gardenize,mythic,G,Enchantment,{1}{G}{G},false,false
+417,Aerid Konstrari,mythic,GR,Legendary Creature — Elder Sphinx,{1}{R}{G}{G},false,false
+418,Denzilore Fatehold,mythic,UW,Legendary Creature — Elder Sphinx,{1}{W}{U}{U},false,false
+419,Ingris Stingerquill,mythic,BR,Legendary Creature — Elder Sphinx,{B}{R}{R},false,false
+420,Kwia Vigorbloom,mythic,GW,Legendary Creature — Elder Sphinx,{3}{G}{W}{W},false,false
+421,Uldaros Theorix,mythic,BU,Legendary Creature — Elder Sphinx,{3}{U}{B}{B},false,false
+422,"Codie, Ravenous Codex",mythic,BGRUW,Legendary Artifact Creature — Book Construct,{3},false,false
+423,"Emrakul, the Exigent Doom",mythic,,Legendary Creature — Eldrazi,{10},false,false
+424,Loyal Tutor,rare,W,Instant,{W},false,false
+425,Diviner of Victory // Unwind History,rare,U,Creature — Dwarf Wizard // Sorcery,{U} // {1}{U},false,false
+426,Variable Chaser // Arc of Fortune,rare,U,Creature — Human Wizard // Sorcery,{2}{U} // {2}{U},false,false
+427,Bloodline Recollector // Ancestral Craving,mythic,B,Creature — Vampire Warlock // Instant,{1}{B} // {B},false,false
+428,Pompous Battlemage // Improvised Act,rare,R,Creature — Goblin Sorcerer // Sorcery,{R} // {R},false,false
+429,Pyre Rhymer // Molten Tide,rare,R,Creature — Elemental Sorcerer // Instant,{1}{R}{R} // {R},false,false
+430,Carnivorous Cultivator // Enroot,rare,G,Creature — Elf Warlock // Sorcery,{1}{G} // {G},false,false
+431,"Codie, Ravenous Codex",rare,BGRUW,Legendary Artifact Creature — Book Construct,{3},false,false
+432,Fatehold Charm,uncommon,UW,Instant,{W}{U},false,false
+433,Konstrari Charm,uncommon,GR,Instant,{R}{G},false,false
+434,Stingerquill Charm,uncommon,BR,Instant,{B}{R},false,false
+435,Theorix Charm,uncommon,BU,Instant,{U}{B},false,false
+436,Vigorbloom Charm,uncommon,GW,Instant,{G}{W},false,false
+437,Carnivorous Cultivator // Enroot,rare,G,Creature — Elf Warlock // Sorcery,{1}{G} // {G},false,false
+438,"Emrakul, the Exigent Doom",mythic,,Legendary Creature — Eldrazi,{10},false,false
+439,Enlightened Confidant,mythic,W,Creature — Kor Cleric,{1}{W},false,false
+440,Return to the Light Realms,mythic,W,Sorcery,{7}{W}{W},false,false
+441,Seasoned Cryomancer,mythic,U,Creature — Human Wizard,{1}{U}{U},false,false
+442,Sphinx's Approach,rare,U,Instant,{1}{U}{U},false,false
+443,"The Theorist, Jace Beleren",mythic,U,Legendary Planeswalker — Jace,{2}{U}{U},false,false
+444,Darklight Phoenix,mythic,B,Creature — Phoenix,{3}{B},false,false
+445,Overwrite the Multiverse,mythic,B,Sorcery,{4}{B}{B},false,false
+446,Craterclaw Colossus,mythic,R,Artifact Creature — Beast Construct,{4}{R}{R}{R},false,false
+447,Stingcaster Mage,mythic,R,Creature — Human Wizard,{1}{R},false,false
+448,Omnipresence,mythic,G,Enchantment,{5}{G}{G}{G},false,false
+449,Enlightened Confidant,mythic,W,Creature — Kor Cleric,{1}{W},false,false
+450,Kindred Judgment,rare,W,Sorcery,{5}{W}{W},false,false
+451,Return to the Light Realms,mythic,W,Sorcery,{7}{W}{W},false,false
+452,Seasoned Cryomancer,mythic,U,Creature — Human Wizard,{1}{U}{U},false,false
+453,Darklight Phoenix,mythic,B,Creature — Phoenix,{3}{B},false,false
+454,Rise of the Deathbringer,rare,B,Instant,{4}{B},false,false
+455,Craterclaw Colossus,mythic,R,Artifact Creature — Beast Construct,{4}{R}{R}{R},false,false
+456,Curse-Marred Demon,rare,R,Creature — Demon,{2}{R}{R},false,false
+457,Stingcaster Mage,mythic,R,Creature — Human Wizard,{1}{R},false,false
+458,Hexhaven Invigorator,mythic,G,Creature — Chimera Horror,{G}{G}{G}{G},false,false
+459,Omnipresence,mythic,G,Enchantment,{5}{G}{G}{G},false,false
+460,Simulacrum Shaper,rare,G,Creature — Elf Druid,{1}{G}{G},false,false
+461,Frostbite Pyromental,rare,RU,Creature — Elemental,{U}{R}{R},false,false
